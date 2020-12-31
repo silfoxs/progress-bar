@@ -1,5 +1,5 @@
 <?php
-namespace Util;
+namespace Silfoxs;
 
 /**
  * 渲染进度条
